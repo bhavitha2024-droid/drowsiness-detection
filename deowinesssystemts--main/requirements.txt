@@ -1,0 +1,7 @@
+numpy>=1.26
+opencv-python>=4.10
+mediapipe>=0.10
+pandas>=2.2
+torch>=2.4
+scikit-learn>=1.5
+streamlit>=1.44
